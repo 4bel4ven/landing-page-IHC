@@ -14,7 +14,7 @@ body {
   color: var(--darkGreen);
 }
 .home-area {
-  background-image: url("/images/mapa.jpg");
+  background-image: url("/images/mapa.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
