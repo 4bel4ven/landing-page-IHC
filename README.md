@@ -1,2 +1,2 @@
-# landing-page-learning
-Pruebas en el desarrollo desde cero para una landing page
+# landing-page-IHC
+Desarrollo del landing page para el curso de IHC, equipo Mercatop
